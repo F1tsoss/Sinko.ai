@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@upstash/redis": "^1.34.9",
+    "lru-cache": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/feedparser": "^2.2.8"
+  }
+}
